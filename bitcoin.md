@@ -2,21 +2,18 @@
 % Brian Peck
 % December 4, 2013
 
-# What it is
+# What is it?
 
 ## Cryptocurrency
-
-- Point 1
-- Point 2
-
-## Breakfast
-
-- Point 1
-- Point 2
 
 # How it works
 
 ## Cryptography Primer 
 
-- Point 1
-- Point 2
+## Block Chain
+
+# Why does it matter?
+
+## Micro transactions
+
+## UX Design
