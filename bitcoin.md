@@ -21,7 +21,7 @@
 
 ------
 
-![Public: 1vraci7fTMFqaHz3DGkpUQEBmMVRvNaGs](images/qr.gif)
+![Public: 1vraci7fTMFqaHz3DGkpUQEBmMVRvNaGs](images/qr.png)
 
 Key: 5KPgEXqb7FGSgCSF9iZhGHHzAFPFXzfg2uhA8rN7kS4Pt3UJhFA
 
