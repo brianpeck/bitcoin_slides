@@ -59,13 +59,51 @@
 <li class="fragment">Verify with your private key</li>
 </ul>
 </section></section>
-<section><section id="how-it-works" class="titleslide slide level1"><h1>How it works</h1></section><section id="cryptography-primer" class="slide level2">
-<h1>Cryptography Primer</h1>
-</section><section id="block-chain" class="slide level2">
-<h1>Block Chain</h1>
+<section><section id="cryptography-primer" class="titleslide slide level1"><h1>Cryptography Primer</h1></section><section id="public-key-cryptography" class="slide level2">
+<h1>Public Key Cryptography</h1>
+<ul>
+<li class="fragment">Pairs of keys: Private (sign) and Public (verify)</li>
+<li class="fragment">Chosen together with various mathematical properties</li>
+</ul>
+</section><section class="slide level2">
+
+<!--Image credit: https://www.switch.ch/export/sites/default/uni/projects/grid/download_repository/crypto3.png-->
+
+<figure>
+<img src="images/crypto3.png" alt="Public Key Signing" /><figcaption>Public Key Signing</figcaption>
+</figure>
+</section><section id="cryptographic-hash-function" class="slide level2">
+<h1>Cryptographic Hash Function</h1>
+<ul>
+<li class="fragment">One-way function (hard to reverse)</li>
+<li class="fragment">Input: Arbitrary Block of Data</li>
+<li class="fragment">Output: Fixed-size bit string</li>
+</ul>
 </section></section>
-<section><section id="why-does-it-matter" class="titleslide slide level1"><h1>Why does it matter?</h1></section><section id="micro-transactions" class="slide level2">
-<h1>Micro transactions</h1>
+<section><section id="how-it-works" class="titleslide slide level1"><h1>How it works</h1></section><section id="block-chain" class="slide level2">
+<h1>Block Chain</h1>
+<ul>
+<li class="fragment">Log of every transaction</li>
+<li class="fragment">Publicly available <a href="http://www.blockchain.info">(blockchain.info)</a></li>
+</ul>
+</section><section id="making-a-transaction" class="slide level2">
+<h1>Making a Transaction</h1>
+<ul>
+<li class="fragment">X creates message &quot;X pays Y 5 BTC&quot;; signs it with private key</li>
+<li class="fragment">X broadcasts message to peer-to-peer network</li>
+<li class="fragment">Y can see transaction, verify that X sent it, and has the money</li>
+<li class="fragment">Unverified transaction - needs to be added to block chain</li>
+</ul>
+</section><section id="verifying-a-block" class="slide level2">
+<h1>Verifying a block</h1>
+<ul>
+<li class="fragment">'Miners' independently verify all network transactions</li>
+<li class="fragment"><code>hash(&quot;block&quot;nonce) = XXXXXXX</code></li>
+<li class="fragment">Maintains network integrity</li>
+</ul>
+</section></section>
+<section><section id="okay-so-what" class="titleslide slide level1"><h1>Okay, so what?</h1></section><section id="enable-micro-transactions" class="slide level2">
+<h1>Enable Micro transactions</h1>
 </section><section id="ux-design" class="slide level2">
 <h1>UX Design</h1>
 </section></section>
