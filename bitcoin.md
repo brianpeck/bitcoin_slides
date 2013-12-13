@@ -2,6 +2,8 @@
 % Brian Peck
 % December 13, 2013
 
+![Jeopardy](images/jeopardy.png)
+
 # What is Bitcoin?
 
 ## Cryptocurrency
@@ -38,7 +40,7 @@ Key: 5KPgEXqb7FGSgCSF9iZhGHHzAFPFXzfg2uhA8rN7kS4Pt3UJhFA
 ---------
 <!--Image credit: https://www.switch.ch/export/sites/default/uni/projects/grid/download_repository/crypto3.png-->
 
-![Public Key Signing](images/crypto3.png)
+![Public Key Signing](images/crypto.png)
 
 ## Cryptographic Hash Function
 > - One-way function (hard to reverse)
