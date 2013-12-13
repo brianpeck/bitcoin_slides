@@ -2,6 +2,7 @@
 % Brian Peck
 % December 13, 2013
 
+<!--Image credit: http://i.imgur.com/HH9mqRc.jpg h/t r/bitcoin -->
 ![Jeopardy](images/jeopardy.png)
 
 # What is Bitcoin?
@@ -13,6 +14,7 @@
 
 ------
 
+<!--Image credit: http://bitcoinity.org/markets -->
 ![Bitcoin price over 6 months](images/bitcoin_charts.png)
 
 # How to use Bitcoin?
@@ -23,6 +25,7 @@
 
 ------
 
+<!-- Image credit: Generated at wolframalpha.com -->
 ![Public: 1vraci7fTMFqaHz3DGkpUQEBmMVRvNaGs](images/qr.png)
 
 Key: 5KPgEXqb7FGSgCSF9iZhGHHzAFPFXzfg2uhA8rN7kS4Pt3UJhFA
@@ -39,7 +42,6 @@ Key: 5KPgEXqb7FGSgCSF9iZhGHHzAFPFXzfg2uhA8rN7kS4Pt3UJhFA
 
 ---------
 <!--Image credit: https://www.switch.ch/export/sites/default/uni/projects/grid/download_repository/crypto3.png-->
-
 ![Public Key Signing](images/crypto.png)
 
 ## Cryptographic Hash Function
