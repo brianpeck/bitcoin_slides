@@ -1,6 +1,6 @@
 % Bitcoin
 % Brian Peck
-% December 13, 2013
+% February 18, 2013
 
 <!--Image credit: http://i.imgur.com/HH9mqRc.jpg h/t r/bitcoin -->
 ![Jeopardy](images/jeopardy.png)
